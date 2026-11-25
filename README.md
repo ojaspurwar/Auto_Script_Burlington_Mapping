@@ -1,6 +1,10 @@
 # BurlingtonEnglish Auto Clicker & Mover
 
-An automated mouse clicker, mover, and drag-and-drop tool tailored for BurlingtonEnglish exercises.
+An automated mouse clicker, mover, visual shuffle solver, and drag-and-drop tool tailored for BurlingtonEnglish exercises — plus **Genral Sync**, a universal sequence builder that works on any screen resolution.
+
+![BurlingtonEnglish Automation Showcase](assets/showcase_loop.gif)
+
+> 🎬 **Full 1080p HD Video (with audio):** [Burlington_Automation_Showcase.mp4](Burlington_Automation_Showcase.mp4)
 
 ---
 

@@ -4,6 +4,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Local personal screenshots & runtime overrides
+# Local personal screenshots, raw recordings & runtime overrides
 Screenshot *.png
+BurlingtonEnglish - Applications - Google Chrome *.mp4
 config.json
+videos/
