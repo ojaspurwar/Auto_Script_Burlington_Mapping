@@ -76,3 +76,10 @@ flowchart TD
    - Clicks **Check** `(1780, 987)`
 5. **Loop**:
    - Automatically returns to **Section 3** and repeats indefinitely.
+
+---
+
+## 📄 License
+
+Copyright © 2026 Ojas Purwar. **All Rights Reserved.**  
+Unauthorized copying, modification, redistribution, or commercial use is strictly prohibited. See [`LICENSE`](LICENSE) for full terms.
