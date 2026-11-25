@@ -1,0 +1,50 @@
+{
+  "screen": "1920x1080",
+  "steps": [
+    {
+      "type": "click",
+      "x": 745,
+      "y": 292,
+      "after": 0.4,
+      "label": "Open Section 3"
+    },
+    {
+      "type": "wait",
+      "seconds": 10,
+      "label": "Wait for Section 3 load"
+    },
+    {
+      "type": "click",
+      "x": 43,
+      "y": 400,
+      "after": 0.4,
+      "label": "Click Play"
+    },
+    {
+      "type": "wait",
+      "seconds": 75,
+      "label": "Wait 1:15 audio"
+    },
+    {
+      "type": "click",
+      "x": 825,
+      "y": 292,
+      "after": 0.4,
+      "label": "Open Section 4"
+    },
+    {
+      "type": "wait",
+      "seconds": 10,
+      "label": "Wait for Section 4 load"
+    },
+    {
+      "type": "drag",
+      "x1": 1531,
+      "y1": 464,
+      "x2": 1531,
+      "y2": 714,
+      "duration": 0.6,
+      "label": "Scroll Section 4"
+    }
+  ]
+}

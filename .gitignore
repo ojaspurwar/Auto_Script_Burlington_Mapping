@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
+
+# Local personal screenshots & runtime overrides
+Screenshot *.png
+config.json
